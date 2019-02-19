@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in English.
+-->
+<properties>
+    <property_list>
+
+        <!-- ENGLISH LANGUAGE SETTINGS FOR DESKTOP JAVA FRAMEWORK CONTROLS -->
+
+        <!-- WELCOME DIALOG TEXT -->
+        <property name="WELCOME_DIALOG_TITLE"               value="nuqneH Course Site Generator"></property>
+        <property name="WELCOME_DIALOG_RECENT_WORK_LABEL"   value="recent Qap"></property>
+        <property name="WELCOME_DIALOG_NEW_BUTTON_TEXT"  value="rep mIw'e' chu' chenmoH"></property>
+
+        <!-- GENERIC APP ERROR MESSAGES -->
+        <property name="APP_ERROR_TITLE"            value="application Qagh"></property>
+        <property name="APP_ERROR_CONTENT"          value="Qagh occured neH Application"></property>
+
+        <!-- PROPERTIES ERROR MESSAGES -->
+        <property name="PROPERTIES_ERROR_TITLE"     value="bang teywI' Qagh"></property>
+        <property name="PROPERTIES_ERROR_CONTENT"   value="tu'lu' Qagh Loading bang teywI'"></property>
+
+        <!-- FILE TOOLBAR TOOLTIPS -->
+        <property name="NEW_BUTTON_TOOLTIP"         value="rep mIw'e' chu'"></property>
+        <property name="LOAD_BUTTON_TOOLTIP"        value="load mIw'e' rep"></property>
+        <property name="CLOSE_BUTTON_TOOLTIP"       value="SoQ mIw'e' rep"></property>
+        <property name="SAVE_BUTTON_TOOLTIP"        value="mIw'e' rep toD"></property>
+        <property name="EXPORT_BUTTON_TOOLTIP"      value="export mIw'e' rep"></property>
+        <property name="EXIT_BUTTON_TOOLTIP"        value="mej"></property>
+
+        <!-- CLIPBOARD TOOLBAR TOOLTIPS -->
+        <property name="CUT_BUTTON_TOOLTIP"         value="chIp"></property>
+        <property name="COPY_BUTTON_TOOLTIP"        value="copy"></property>
+        <property name="PASTE_BUTTON_TOOLTIP"       value="paste"></property>
+
+        <!-- UNDO TOOLBAR TOOLTIPS -->
+        <property name="UNDO_BUTTON_TOOLTIP"        value="Ha'"></property>
+        <property name="REDO_BUTTON_TOOLTIP"        value="redo"></property>
+
+        <!-- HELP TOOLBAR TOOLTIPS -->
+        <property name="HELP_BUTTON_TOOLTIP"        value="QaH"></property>
+        <property name="LANGUAGE_BUTTON_TOOLTIP"    value="choH langauge"></property>
+        <property name="ABOUT_BUTTON_TOOLTIP"       value="umqu' ghot"></property>
+
+        <!-- NEW FEEDBACK DIALOGS -->	
+        <property name="NEW_SUCCESS_TITLE"      value="chu' naQ"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="Qap chenmoH 'ach wej toD"></property>
+        <property name="NEW_ERROR_TITLE"        value="ghuHmoH: Qagh"></property>
+        <property name="NEW_ERROR_CONTENT"      value="chenmoH chu' Qap qaS Qagh."></property>
+
+        <!-- LOAD FEEDBACK DIALOGS -->
+        <property name="LOAD_WORK_TITLE"        value="Qap load"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="load naQmoH wanI'mey"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="chaq Loaded Successfully 'ej laH DaH edited teywI'."></property>
+        <property name="LOAD_ERROR_TITLE"       value="Qagh loading"></property>        
+        <property name="LOAD_ERROR_CONTENT"     value="luj loading. ghaytan pa' qay' teywI' Formating."></property>
+
+        <!-- SAVE FEEDBACK DIALOGS -->
+        <property name="SAVE_WORK_TITLE"        value="Qap toD"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="toD naQmoH wanI'mey"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="yemwI' teywI'."></property>
+        <property name="SAVE_ERROR_TITLE"       value="yemwI' teywI'."></property>
+        <property name="SAVE_ERROR_CONTENT"     value="luj saving. ghaytan muHIvtaHbogh teywI' naw' qay''a'."></property>
+        <property name="SAVE_VERIFY_TITLE"	value="toD, unsave vum?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="unsave Qu'lIj toD wa'DIch rur SoH?"></property>
+
+        <!-- ABOUT DIALOG -->
+        <property name="ABOUT_TITLE"            value="vIHtaHbogh majQa'"></property>
+        <property name="ABOUT_CONTENT"          value="OH, the Office Hours Manager - Debugging Enterprises - © 2018"></property>
+
+
+        <!-- ENGLISH LANGUAGE SETTINGS SPECIFICALLY FOR TDLM CONTROLS -->
+
+        <!-- LANGUAGE-DEPENDENT TEXT FOR OH WORKSPACE CONTROLS -->
+        <property name="OH_TAS_HEADER_LABEL_TEXT"           value="paQDI'norgh boQwI'"></property>
+        <property name="OH_NAME_TEXT_FIELD_PROMPT_TEXT"            value="pong"></property>
+        <property name="OH_EMAIL_TEXT_FIELD_PROMPT_TEXT"           value="email"></property>
+        <property name="OH_ADD_TA_BUTTON_TEXT"              value="CHEL TA"></property>
+        <property name="OH_OFFICE_HOURS_HEADER_LABEL_TEXT"  value="mIw'e' rep"></property>
+        <property name="OH_NAME_TABLE_COLUMN_TEXT"          value="pong"></property>
+        <property name="OH_EMAIL_TABLE_COLUMN_TEXT"         value="email"></property>
+        <property name="OH_SLOTS_TABLE_COLUMN_TEXT"         value="poH Slots"></property>
+        <property name="OH_START_TIME_TABLE_COLUMN_TEXT"    value="start poH"></property>
+        <property name="OH_END_TIME_TABLE_COLUMN_TEXT"      value="'o'megh poH"></property>
+        <property name="OH_MONDAY_TABLE_COLUMN_TEXT"        value="monday"></property>
+        <property name="OH_TUESDAY_TABLE_COLUMN_TEXT"       value="tuesday"></property>
+        <property name="OH_WEDNESDAY_TABLE_COLUMN_TEXT"     value="wednesday"></property>
+        <property name="OH_THURSDAY_TABLE_COLUMN_TEXT"      value="thursday"></property>
+        <property name="OH_FRIDAY_TABLE_COLUMN_TEXT"        value="friday"></property>
+        
+        <!-- ERROR DIALOG -->
+        <property name="OH_NO_TA_SELECTED_TITLE"        value="pagh ta wIv"></property>
+        <property name="OH_NO_TA_SELECTED_CONTENT"      value="qIt neH toggle vaj wIv ta"></property>
+        
+        <property name="INVALID_IMAGE_FILE_TITLE"        value="invalid teywI'"></property>
+        <property name="INVALID_IMAGE_FILE_CONTENT"      value="DubelmoHchugh ghItlhvam teywI' neH wutlh (*.jpg, *.png)"></property>
+   
+
+        <!-- TO SWITCH BACK TO ANOTHER LANGUAGE -->
+        <property name="LANGUAGE_DIALOG_TITLE"          value="app Hol Selection"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="Hol wutlh"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="[Hol User Interface. ghaHDaq wIv BERNARDO."></property>
+       
+        
+        <property name="TAB_SITE_TEXT" value="Daq"></property>
+        <property name="TAB_SYLLABUS_TEXT" value="syllabus"></property>
+        <property name="TAB_MEETING_TIMES_TEXT" value="qep poH"></property>
+        <property name="TAB_OFFICE_HOURS_TEXT" value="mIw'e' rep"></property>
+        <property name="TAB_SCHEDULE_TEXT" value="schedule"></property>
+        
+        <!-- SITE COMPONENTS -->
+        <property name="SITE_BANNER_TEXT" value="banner"></property>
+        <property name="SITE_PAGES_TEXT" value="page"></property>
+        <property name="SITE_STYLE_TEXT" value="style"></property>
+        <property name="SITE_INSTRUCTOR_TEXT" value="instructor"></property>
+        
+        <property name="BANNER_SUBJECT_TEXT" value="subject"></property>
+        <property name="BANNER_NUMBER_TEXT" value="ml'"></property>
+        <property name="BANNER_SEMESTER_TEXT" value="semester"></property>
+        <property name="BANNER_YEAR_TEXT" value="DIS"></property>
+        <property name="BANNER_TITLE_TEXT" value="title"></property>
+        <property name="BANNER_EXPORT_TEXT" value="export dir: "></property>
+        
+        <property name="SITE_PAGES_TEXT" value="page"></property>
+        <property name="PAGES_HOME_TEXT" value="jUH"></property>
+        <property name="PAGES_SYLLABUS_TEXT" value="syllabus"></property>
+        <property name="PAGES_SCHEDULE_TEXT" value="schedule"></property>
+        <property name="PAGES_HOMEWORK_TEXT" value="homework"></property>
+        
+        
+        <property name="SITE_STYLE_TEXT" value="style"></property>
+        <property name="STYLES_FAVICON_TEXT" value="favicon"></property>
+        <property name="STYLES_NAVBAR_TEXT" value="navbar ghItlhvam"></property>
+        <property name="STYLES_LEFT_TEXT" value="mej footer ghItlhvam"></property>
+        <property name="STYLES_RIGHT_TEXT" value="lugh Footer ghItlhvam"></property>
+        <property name="STYLES_CSS_LABEL_TEXT" value="fonts colors 'ej style jan'e'"></property>
+        <property name="STYLES_WARNING_TEXT" value="note: vaj lan Style jan'e' qoD Qap ghap css 'e' selectable."></property>
+         
+        
+         <property name="INSTRUCTOR_LABEL_TEXT" value="instructor"></property>
+        <property name="INSTRUCTOR_NAME_TEXT" value="pong: "></property>
+        <property name="INSTRUCTOR_ROOM_TEXT" value="pa'Daq:"></property>
+        <property name="INSTRUCTOR_EMAIL_TEXT" value="email: "></property>
+        <property name="INSTRUCTOR_HOME_PAGE_TEXT" value="juH page: "></property>
+         <property name="INSTRUCTOR_OFFICEHOURS_TEXT" value="mIw'e' rep: "></property>
+         <property name="INS_OH_BT_TEXT" value="+"></property>
+         
+         <property name="DESCRIPTION_LABEL_TEXT" value="description"></property>
+        <property name="TOPICS_LABEL_TEXT" value="topic"></property>
+        <property name="PREREQ_LABEL_TEXT" value="prerequisite"></property>
+        <property name="OUTCOME_LABEL_TEXT" value="outcome"></property>
+        <property name="GRADED_COMP_LABEL_TEXT" value="grade 'ay'"></property>
+        <property name="GRADING_NOTE_LABEL_TEXT" value="Notes grading"></property>
+        <property name="ACADEMIC_DISHONESTY_LABEL_TEXT" value="academic Dishonesty"></property>
+        <property name="SPECIAL_ASSISTANCE_LABEL_TEXT" value="le' boQ"></property>
+        <property name="TEXTBOOK_LABEL_TEXT" value="textbook"></property>
+        
+         <property name="LECTURES_LABEL_TEXT" value="SoQ"></property>
+           <property name="LABS_LABEL,_TEXT" value="lab"></property>
+           <property name="RECITATION_LABEL_TEXT" value="recitation"></property>
+           <property name="SECTION_LEC_TEXT" value="'ay'"></property>
+           <property name="DAYS_LEC_TEXT" value="jaj"></property>
+           <property name="TIME_LEC_TEXT" value="pOH"></property>
+           <property name="ROOM_LEC_TEXT" value="pa'Daq"></property>
+           <property name="SECTION_REC_TEXT" value="'ay'"></property>
+           <property name="ROOM_REC_TEXT" value="pa'Daq"></property>
+           <property name="DAYS_TIME_REC_TEXT" value="je poH je"></property>
+           <property name="TA1_REC_TEXT" value="ta1"></property>
+           <property name="TA2_REC_TEXT" value="ta2"></property>
+           
+           <property name="SECTION_LABS_TEXT" value="'ay'"></property>
+           <property name="ROOM_LABS_TEXT" value="pa'Daq"></property>
+           <property name="DAYS_TIME_LABS_TEXT" value="je poH je"></property>
+           <property name="TA1_LABS_TEXT" value="ta1"></property>
+           <property name="TA2_LABS_TEXT" value="ta2"></property>
+           
+           <property name="CALENDAR_BOUNDARIES_LABEL_TEXT" value="'ISjaH veH"></property>
+           <property name="SCHEDULE_ITEMS_TEXT" value="schedule Items"></property>
+           <property name="TYPE_TEXT" value="Segh"></property>
+           <property name="DATE_TEXT" value="date"></property>
+           <property name="TITLE_TEXT" value="title"></property>
+           <property name="TOPIC_TEXT" value="topic"></property>
+           <property name="ADD_EDIT_LABEL_TEXT" value="boq/edit"></property>
+           <property name="D_TYPE_TEXT" value="Segh"></property>
+           <property name="D_DATE_TEXT" value="date"></property>
+           <property name="D_TIME_TEXT" value="poH"></property>
+           <property name="D_TITLE_TEXT" value="title"></property>
+           <property name="D_TOPIC_TEXT" value="topic"></property>
+           <property name="D_LINK_TEXT" value="link"></property>
+           <property name="CLEAR_BUTTON_TEXT" value="Huv"></property>
+           <property name="STARTING_MONDAY_TEXT" value="monday starting"></property>
+           <property name="ENDING_FRIDAY_TEXT" value="friday qabna'Daj"></property>
+           <property name="ADD_UPDATE_BUTTON_TEXT" value="boq/update"></property>
+
+        <property name="CHOOSE_IMAGE_TITLE"          value="ghItlhvam wutlh"></property>
+
+        <property name="REMOVE_SCHEDULE_BUTTON_TEXT"  value="-"></property>
+
+        
+        <property name="START_TIME_LABEL_TEXT"        value="start poH "></property>
+        <property name="END_TIME_LABEL_TEXT"        value="end poH: "></property>
+
+        <property name="WORK_FILE_EXT"          value="*.site"></property>
+	<property name="WORK_FILE_EXT_DESC"     value="He Daq teywI'"></property>
+
+    </property_list>
+    
+    <!-- TDLM COMBO BOX CHOICES -->
+    <property_options_list>
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>English Hol</option>
+            <option>tlhIngan</option>
+        </property_options>
+    </property_options_list>
+</properties>

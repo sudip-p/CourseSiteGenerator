@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>DesktopJavaFramework</title>
+        <vendor>McKillaGorilla</vendor>
+        <homepage href=""/>
+        <description>DesktopJavaFramework</description>
+        <description kind="short">DesktopJavaFramework</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="DesktopJavaFramework.jar" main="true"/>
+    <jar href="lib/jTPS.jar"/>
+<jar href="lib/PropertiesManager.jar"/>
+<jar href="lib/javax.json-1.0.4.jar"/>
+</resources>
+    <application-desc main-class="">
+    </application-desc>
+</jnlp>

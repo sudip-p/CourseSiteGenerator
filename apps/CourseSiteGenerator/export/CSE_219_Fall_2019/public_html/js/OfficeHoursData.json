@@ -1,0 +1,41 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "grad_tas":[
+        {
+            "name":"Bo Cao",
+            "email":"Bo.Cao.1@stonybrook.edu",
+            "type":"Graduate"
+        },
+        {
+            "name":"Aarin Chase",
+            "email":"Aarin.Chase@stonybrook.edu",
+            "type":"Graduate"
+        }
+    ],
+    "undergrad_tas":[
+        {
+            "name":"Abraham Rosloff",
+            "email":"abraham.rosloff@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Anghel De Las Casas",
+            "email":"anghel.delascasas@stonybrook.edu",
+            "type":"Undergraduate"
+        }
+    ],
+    "officeHours":[
+        {
+            "time":"11_00am",
+            "day":"THURSDAY",
+            "name":"Abraham Rosloff"
+        },
+        {
+            "time":"12_00pm",
+            "day":"TUESDAY",
+            "name":"Anghel De Las Casas"
+        }
+    ]
+}

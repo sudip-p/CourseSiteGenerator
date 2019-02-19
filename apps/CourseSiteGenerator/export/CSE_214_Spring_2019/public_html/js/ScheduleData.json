@@ -1,0 +1,17 @@
+
+{
+    "startingMondayMonth":12,
+    "startingMondayDay":10,
+    "startingFridayMonth":12,
+    "startingFridayDay":10,
+    "holidays":[
+    ],
+    "lectures":[
+    ],
+    "references":[
+    ],
+    "recitations":[
+    ],
+    "hws":[
+    ]
+}

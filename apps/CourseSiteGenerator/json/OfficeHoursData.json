@@ -1,0 +1,136 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "grad_tas":[
+        {
+            "name":"Sudip Paul",
+            "email":"sudip@gmail.com",
+            "type":"Graduate"
+        }
+    ],
+    "undergrad_tas":[
+        {
+            "name":"Dennis Heerlein",
+            "email":"dennis@gmail.com",
+            "type":"Undergraduate"
+        }
+    ],
+    "officeHours":[
+        {
+            "time":"9_30am",
+            "day":"TUESDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"9_30am",
+            "day":"TUESDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"10_00am",
+            "day":"MONDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"10_00am",
+            "day":"MONDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"10_00am",
+            "day":"WEDNESDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"10_00am",
+            "day":"THURSDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"10_00am",
+            "day":"FRIDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"10_30am",
+            "day":"TUESDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"10_30am",
+            "day":"TUESDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"10_30am",
+            "day":"WEDNESDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"11_30am",
+            "day":"MONDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"11_30am",
+            "day":"TUESDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"11_30am",
+            "day":"TUESDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"11_30am",
+            "day":"WEDNESDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"11_30am",
+            "day":"THURSDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"12_00pm",
+            "day":"MONDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"12_00pm",
+            "day":"THURSDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"2_00pm",
+            "day":"THURSDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"2_30pm",
+            "day":"MONDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"2_30pm",
+            "day":"WEDNESDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"3_00pm",
+            "day":"TUESDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"4_00pm",
+            "day":"TUESDAY",
+            "name":"Dennis Heerlein"
+        },
+        {
+            "time":"4_00pm",
+            "day":"THURSDAY",
+            "name":"Dennis Heerlein"
+        }
+    ]
+}

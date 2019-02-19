@@ -1,0 +1,47 @@
+
+{
+    "subject":[
+        {
+            "option":"CSE"
+        },
+        {
+            "option":"AST"
+        }
+    ],
+    "number":[
+        {
+            "option":"219"
+        },
+        {
+            "option":"214"
+        },
+        {
+            "option":"220"
+        },
+        {
+            "option":"201"
+        }
+    ],
+    "semester":[
+        {
+            "option":"Fall"
+        },
+        {
+            "option":"Spring"
+        },
+        {
+            "option":"Winter"
+        }
+    ],
+    "year":[
+        {
+            "option":"2018"
+        },
+        {
+            "option":"2019"
+        },
+        {
+            "option":"2025"
+        }
+    ]
+}

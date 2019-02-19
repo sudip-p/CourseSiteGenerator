@@ -1,0 +1,233 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "grad_tas":[
+        {
+            "name":"Sudip Paul",
+            "email":"sudip@gmail.com",
+            "type":"Graduate"
+        }
+    ],
+    "undergrad_tas":[
+    ],
+    "officeHours":[
+        {
+            "time":"9_30am",
+            "day":"MONDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"9_30am",
+            "day":"THURSDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"10_00am",
+            "day":"TUESDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"11_00am",
+            "day":"TUESDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"11_00am",
+            "day":"THURSDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"11_30am",
+            "day":"MONDAY",
+            "name":"Sudip Paul"
+        },
+        {
+            "time":"12_00pm",
+            "day":"WEDNESDAY",
+            "name":"Sudip Paul"
+        }
+    ],
+    "subject":"CSE",
+    "number":"219",
+    "year":"2018",
+    "semester":"Fall",
+    "title":"Computer Science III",
+    "instructor":{
+        "name":"Richard McKenna",
+        "email":"richard@cs.stonybrook.edu",
+        "room":"New CS 216",
+        "homepage":"http://www.cs.stonybrook.edu/~richard",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-2:20pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-3pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:20pm"
+            }
+        ]
+    },
+    "logos":{
+        "favicon":{
+            "href":"file:/Users/sudippaul/Desktop/hw3/CS3LearningSuite_v2.0/apps/CourseSiteGenerator/images/white_shield.PNG"
+        },
+        "navbar":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"file:/Users/sudippaul/Desktop/hw3/CS3LearningSuite_v2.0/apps/CourseSiteGenerator/images/SBUWhiteShieldLogo.jpg"
+        },
+        "bottom_left":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"file:/Users/sudippaul/Desktop/hw3/CS3LearningSuite_v2.0/apps/CourseSiteGenerator/images/SBUDarkRedShieldLogo.png"
+        },
+        "bottom_right":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"file:/Users/sudippaul/Desktop/hw3/CS3LearningSuite_v2.0/apps/CourseSiteGenerator/images/SBUCSLogo.png"
+        }
+    },
+    "pages":[
+        {
+            "name":"Home",
+            "link":"index.html"
+        },
+        {
+            "name":"Syllabus",
+            "link":"syllabus.html"
+        },
+        {
+            "name":"Schedule",
+            "link":"schedule.html"
+        },
+        {
+            "name":"HWs",
+            "link":"hws.html"
+        }
+    ],
+    "syllabus":{
+        "description":"Development of the basic concepts and techniques from Computer Science I and II into practical programming skills that include a systematic approach to program design, coding, testing, and debugging. Application of these skills to the construction of robust programs of thousands of lines of source code. Use of prog",
+        "topics":[
+            "Programming style and its impact on readability, reliability, maintainability, and portability.",
+            "Decomposing problems into modular designs with simple, narrow interfaces.",
+            "Determining the proper objects in an object-oriented design.",
+            "Selecting appropriate algorithms and data structures.",
+            "Reusing code, including external libraries designed and built by others.",
+            "Learning systematic testing and debugging techniques.",
+            "Maintaining a repository of code during incremental development of a software project.",
+            "Learning how to use threads to synchronize several tasks.",
+            "Improving program performance.",
+            "Making effective use of a programming environment, including:<br /><ul><li>Syntax-directed editor</li><li>Build tools</li><li>Debugging tools</li><li>Testing tools</li><li>Source code management tools</li><li>Profiling tools</li></ul>"
+        ],
+        "prerequsities":"You must have taken CSE 214 and received a grade of 'C' or better in order to take this course. In more detail, you are expected to have the following knowledge and skills at the beginning of the course:<br /><ul><li>Ability to write programs of a few hundred lines of code in the Java programming language.</li><li>Understanding of fundamental data structures, including lists, binary trees, hash tables, and graphs, and the ability to employ these data structures in the form provided by the standard Java API.</li><li>Ability to construct simple command-based user interfaces, and to use files for the input and output of data.</li><li>Mastery of basic mathematical",
+        "outcomes":[
+            "Ability to systematically design, code, debug, and test programs of about two thousand lines of code.",
+            "Sensitivity to the issues of programming style and modularity and their relationship to the construction and evolution of robust software.",
+            "Knowledge of basic ideas and techniques of object-oriented programming.",
+            "Familiarity with the capabilities and use of programming tools such as syntax-directed editors, debuggers, execution profilers, documentation generators, and revison-control systems."
+        ],
+        "textbooks":[
+            {
+                "title":"Head First Object Oriented Analysis and Design",
+                "link":"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596008678",
+                "photo":"./images/HeadFirstOOAAD.jpg",
+                "authors":[
+                    "Brett McLaughlin",
+                    "Gary Pollice",
+                    "David West"
+                ],
+                "publisher":"O'Reilly Media, Inc.",
+                "year":"2006"
+            },
+            {
+                "title":"Head First Design Patterns",
+                "link":"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596007124",
+                "photo":"./images/HeadFirstDesignPatterns.gif",
+                "authors":[
+                    "Eric T Freeman",
+                    "Elisabeth Robson",
+                    "Bert Bates",
+                    "Kathy Sierra"
+                ],
+                "publisher":"O'Reilly Media, Inc.",
+                "year":"2004"
+            }
+        ],
+        "gradedComponents":[
+            {
+                "name":"Recitations",
+                "description":"Students will attend weekly recitations that will introduce use of essential development tools and will require completion of an exercise for submission.",
+                "weight":"10"
+            },
+            {
+                "name":"Homework Assignments",
+                "description":"The assignments will develop a students ability to design and implement object-oriented systems. Grading will be based on functionality and proper use specific tools. Submitted code that does not compile will receive no credit. Late submissions will NOT be accepted. Programming assignments will be handed in electronically, instructions for which will be provided early in the semester.",
+                "weight":"20"
+            },
+            {
+                "name":"Final Project",
+                "description":"The assignments will build to the final project, which will be a fully functioning application.",
+                "weight":"20"
+            },
+            {
+                "name":"Midterm Exam",
+                "description":"The midterm will cover all lecture, quizzes, and homework materials covered during the first 1/2 of the semester.",
+                "weight":"20"
+            },
+            {
+                "name":"Final Exam",
+                "description":"The final will be cumulative and will cover all lecture, reading, and homework material.",
+                "weight":"30"
+            }
+        ],
+        "gradingNote":"<strong>Note CEAS Policy:</strong> The Pass/No Credit (P/NC) option is not available for this course.",
+        "academicDishonesty":"You may <em>discuss</em> the homework in this course with anyone you like, however each student's submissionmust be ",
+        "specialAssistance":"If you have a physical, psychological, medical or learning disability that may impact on your ability to car"
+    },
+    "meeting_times":{
+        "lectures":[
+            {
+                "section":"Hello",
+                "days":"MWF",
+                "time":"1",
+                "room":"2"
+            }
+        ],
+        "recitations":[
+            {
+                "section":"Hi",
+                "day_time":"MWF-MWF",
+                "location":"New CS 123",
+                "ta_1":"JULONG",
+                "ta_2":"ndsla"
+            }
+        ],
+        "labs":[
+        ]
+    },
+    "startingMondayMonth":"12",
+    "startingMondayDay":"3",
+    "startingFridayMonth":"12",
+    "startingFridayDay":"14",
+    "holidays":[
+    ],
+    "lectures":[
+        {
+            "month":12,
+            "day":12,
+            "year":2018,
+            "title":"nfewnfp",
+            "topic":"fnwep",
+            "link":"fnpew"
+        }
+    ],
+    "references":[
+    ],
+    "recitations":[
+    ],
+    "hws":[
+    ]
+}

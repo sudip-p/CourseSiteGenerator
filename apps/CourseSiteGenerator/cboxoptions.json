@@ -1,0 +1,35 @@
+
+{
+    "subject":[
+        {
+            "option":"CSE"
+        }
+    ],
+    "number":[
+        {
+            "option":"219"
+        },
+        {
+            "option":"214"
+        },
+        {
+            "option":"220"
+        }
+    ],
+    "semester":[
+        {
+            "option":"Fall"
+        },
+        {
+            "option":"Spring"
+        }
+    ],
+    "year":[
+        {
+            "option":"2018"
+        },
+        {
+            "option":"2019"
+        }
+    ]
+}

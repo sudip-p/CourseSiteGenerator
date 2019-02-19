@@ -1,0 +1,118 @@
+
+{
+    "startHour":"9",
+    "endHour":"20",
+    "grad_tas":[
+    ],
+    "undergrad_tas":[
+    ],
+    "officeHours":[
+    ],
+    "subject":"CSE",
+    "number":"219",
+    "year":"2019",
+    "semester":"Spring",
+    "title":"Some Course",
+    "instructor":{
+        "name":"npewf",
+        "email":"fnpew",
+        "room":"mfpweq",
+        "homepage":"fnpew",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-2:20pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-3pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:20pm"
+            }
+        ]
+    },
+    "logos":{
+        "favicon":{
+            "href":"file:./images/white_shield.png"
+        },
+        "navbar":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"file:./images/SBUDarkRedShieldLogo.png"
+        },
+        "bottom_left":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"file:./images/SBUWhiteShieldLogo.jpg"
+        },
+        "bottom_right":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"file:./images/SBUCSLogo.png"
+        }
+    },
+    "pages":[
+        {
+            "name":"Home",
+            "link":"index.html"
+        },
+        {
+            "name":"Syllabus",
+            "link":"syllabus.html"
+        },
+        {
+            "name":"Schedule",
+            "link":"schedule.html"
+        },
+        {
+            "name":"HWs",
+            "link":"hws.html"
+        }
+    ],
+    "syllabus":{
+        "description":"\"Development of the basic concepts and techniques from Computer Science I and II into practical programming skills that include a systematic approach to program design, coding, testing, and debugging. Application of these skills to the construction of robust programs of thousands of lines of source code. Use of programming environments and tools to aid in the software development process.\"",
+        "topics":[
+            "Programming style and its impact on readability, reliability, maintainability, and portability.",
+            "Decomposing problems into modular designs with simple, narrow interfaces.",
+            "Determining the proper objects in an object-oriented design.",
+            "Selecting appropriate algorithms and data structures.",
+            "Reusing code, including external libraries designed and built by others.",
+            "Learning systematic testing and debugging techniques.",
+            "Maintaining a repository of code during incremental development of a software project.",
+            "Learning how to use threads to synchronize several tasks.",
+            "Improving program performance.",
+            "Making effective use of a programming environment, including:<br /><ul><li>Syntax-directed editor</li><li>Build tools</li><li>Debugging tools</li><li>Testing tools</li><li>Source code management tools</li><li>Profiling tools</li></ul>"
+        ],
+        "prerequsities":"\"You must have taken CSE 214 and received a grade of 'C' or better in order to take this course. In more detail, you are expected to have the following knowledge and skills at the beginning of the course:<br /><ul><li>Ability to write programs of a few hundred lines of code in the Java programming language.</li><li>Understanding of fundamental data structures, including lists, binary trees, hash tables, and graphs, and the ability to employ these data structures in the form provided by the standard Java API.</li><li>Ability to construct simple command-based user interfaces, and to use files for the input and output of data.</li><li>Mastery of basic mathematical and geometric reasoning using pre-calculus concepts.</li></ul>\"",
+        "outcomes":[
+        ],
+        "textbooks":[
+        ],
+        "gradedComponents":[
+        ],
+        "gradingNote":"",
+        "academicDishonesty":"",
+        "specialAssistance":""
+    },
+    "meeting_times":{
+        "lectures":[
+        ],
+        "recitations":[
+        ],
+        "labs":[
+        ]
+    },
+    "startingMondayMonth":"12",
+    "startingMondayDay":"10",
+    "startingFridayMonth":"12",
+    "startingFridayDay":"10",
+    "holidays":[
+    ],
+    "lectures":[
+    ],
+    "references":[
+    ],
+    "recitations":[
+    ],
+    "hws":[
+    ]
+}

@@ -1,0 +1,24 @@
+
+{
+    "startingMondayMonth":8,
+    "startingMondayDay":27,
+    "startingFridayMonth":12,
+    "startingFridayDay":21,
+    "holidays":[
+        {
+            "month":"9",
+            "day":"3",
+            "year":"2018",
+            "title":"Labor Day",
+            "link":"https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars"
+        }
+    ],
+    "lectures":[
+    ],
+    "references":[
+    ],
+    "recitations":[
+    ],
+    "hws":[
+    ]
+}

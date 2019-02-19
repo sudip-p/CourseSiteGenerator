@@ -1,0 +1,3 @@
+sometest-work/sometest.site
+test2-work/test2.site
+test1-work/test1.site

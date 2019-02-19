@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>CourseSiteGenerator</title>
+        <vendor>McKillaGorilla</vendor>
+        <homepage href=""/>
+        <description>CourseSiteGenerator</description>
+        <description kind="short">CourseSiteGenerator</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="CourseSiteGenerator.jar" main="true"/>
+    <jar href="lib/javax.json-1.0.4.jar"/>
+<jar href="lib/DesktopJavaFramework.jar"/>
+<jar href="lib/jTPS.jar"/>
+<jar href="lib/PropertiesManager.jar"/>
+<jar href="lib/commons-io-2.6.jar"/>
+</resources>
+    <application-desc main-class="csg.CSGApp">
+    </application-desc>
+</jnlp>
