@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>PropertiesManager</title>
+        <vendor>sudippaul</vendor>
+        <homepage href=""/>
+        <description>PropertiesManager</description>
+        <description kind="short">PropertiesManager</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="PropertiesManager.jar" main="true"/>
+    </resources>
+    <application-desc main-class="">
+    </application-desc>
+</jnlp>
